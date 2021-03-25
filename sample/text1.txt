@@ -1,3 +1,0 @@
-this is sample text file.
-
-this is second line, for testing purpose.
